@@ -39,6 +39,8 @@ export const Navbar = () => {
       </div>
       <div className="navbar-collapse collapse w-100 order-3 dual-collapse2">
         <ul className="navbar-nav ml-auto">
+          <p className="nav-item nav-link text-info">Osama</p>
+
           <NavLink
             activeClassName="active"
             className="nav-item nav-link"
